@@ -111,7 +111,7 @@
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3",
     "jsdom": "^9.11.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "mocha": "^3.2.0",
     "react-intl-translations-manager": "^5.0.0",
     "react-storybook-addon-intl": "^0.1.0",
