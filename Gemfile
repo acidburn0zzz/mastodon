@@ -47,7 +47,7 @@ gem 'rails-settings-cached', '~> 0.6'
 gem 'redis', '~> 3.3', require: ['redis', 'redis/connection/hiredis']
 gem 'rqrcode', '~> 0.10'
 gem 'ruby-oembed', '~> 0.12', require: 'oembed'
-gem 'sanitize', '~> 4.4'
+gem 'sanitize', '~> 4.6'
 gem 'sidekiq', '~> 5.0'
 gem 'sidekiq-scheduler', '~> 2.1'
 gem 'sidekiq-unique-jobs', '~> 5.0'
